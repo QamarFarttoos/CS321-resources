@@ -1,9 +1,9 @@
 
 # Project 0: Time Capsule
 
-* Author: Your Name
+* Author: Qamar Farttoos
 * Class: CS321 Section #
-* Semester: 
+* Semester: fall 
 
 
 ## Project Description
